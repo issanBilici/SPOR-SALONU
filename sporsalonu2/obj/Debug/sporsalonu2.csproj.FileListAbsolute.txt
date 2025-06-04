@@ -1,0 +1,12 @@
+C:\Users\ahmet251\Source\Repos\sporsalonu2\sporsalonu2\bin\Debug\sporsalonu2.exe.config
+C:\Users\ahmet251\Source\Repos\sporsalonu2\sporsalonu2\bin\Debug\sporsalonu2.exe
+C:\Users\ahmet251\Source\Repos\sporsalonu2\sporsalonu2\bin\Debug\sporsalonu2.pdb
+C:\Users\ahmet251\Source\Repos\sporsalonu2\sporsalonu2\obj\Debug\sporsalonu2.csproj.AssemblyReference.cache
+C:\Users\ahmet251\Source\Repos\sporsalonu2\sporsalonu2\obj\Debug\sporsalonu2.Form1.resources
+C:\Users\ahmet251\Source\Repos\sporsalonu2\sporsalonu2\obj\Debug\sporsalonu2.Form3.resources
+C:\Users\ahmet251\Source\Repos\sporsalonu2\sporsalonu2\obj\Debug\sporsalonu2.Form4.resources
+C:\Users\ahmet251\Source\Repos\sporsalonu2\sporsalonu2\obj\Debug\sporsalonu2.Properties.Resources.resources
+C:\Users\ahmet251\Source\Repos\sporsalonu2\sporsalonu2\obj\Debug\sporsalonu2.csproj.GenerateResource.cache
+C:\Users\ahmet251\Source\Repos\sporsalonu2\sporsalonu2\obj\Debug\sporsalonu2.csproj.CoreCompileInputs.cache
+C:\Users\ahmet251\Source\Repos\sporsalonu2\sporsalonu2\obj\Debug\sporsalonu2.exe
+C:\Users\ahmet251\Source\Repos\sporsalonu2\sporsalonu2\obj\Debug\sporsalonu2.pdb
